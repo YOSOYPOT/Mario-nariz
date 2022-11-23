@@ -1,0 +1,7 @@
+video {
+    background-image: url("consola.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding: 30px;
+}
